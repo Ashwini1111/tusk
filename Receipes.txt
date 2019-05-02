@@ -6,6 +6,9 @@ Kheer
 Paasta
 Rice 
 
+beans
+pizza
+
 Thank you
 
 final copy
